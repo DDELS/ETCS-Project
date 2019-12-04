@@ -24,7 +24,7 @@ The negative reaction expressed by bloggers around the world is as evident as th
 
 [Link](https://www.youtube.com/watch?v=R3QEgox2cCE)
 
-### Open mic. Any thoughts/Questions?
+# Open mic. Any thoughts/Questions?
 
 
 
