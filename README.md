@@ -21,24 +21,10 @@ There is some good insight in creating a “code” for people to follow or a gu
 ### The Negatives
 
 The negative reaction expressed by bloggers around the world is as evident as the positive responses. The negativity has been triggered by questioning the compatibility of the codes itself with freedom of speech and expression. Jeff Jarvis, a professor, and director of interactive journalism at City College of New York commented that he would feel resentful of someone who would show the temerity to propose how one should behave. He further criticized the efficiency of the code in alleviating threatful comments by mentioning that miscreants will never sign to the code of conduct let alone adhere to it. People also attacked him saying this only curbs the freedom of expression among the bloggers, give propagators to spread lies and also venture capitals to profit from their foolish investments. Besides, this might turn out dangerous for the mass to be unable to express their rage against unjust laws and rules formulated by the state.
+
 [Link](https://www.youtube.com/watch?v=R3QEgox2cCE)
 
 ### Open mic. Any thoughts/Questions?
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DDELS/ETCS-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
